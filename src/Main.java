@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by MihaelKO on 16.01.2017. start - 12.45, end 16.40. Whith a lunch brake
+ * Created by MihaelKO on 16.01.2017. start - 12.45, end 16.10.
  */
 public class Main {
     public static void main(String[] args) {
