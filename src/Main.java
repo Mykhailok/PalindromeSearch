@@ -37,7 +37,7 @@ public class Main {
         }
         int num = Integer.parseInt(reverse); //convert to Integer
         if (c == num) { //check if strings are equal
-            resultList.add(c);//and if equal add this number to List of palindroms
+            resultList.add(c); //and if equal add this number to List of palindroms
         }
     }
 }
